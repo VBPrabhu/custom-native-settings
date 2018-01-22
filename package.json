@@ -1,0 +1,27 @@
+{
+  "name": "custom-native-settings",
+  "version": "0.0.5",
+  "description": "Cordova Native Settings Plugin",
+  "cordova": {
+    "id": "custom-native-settings",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VBPrabhu/custom-native-settings.git"
+  },
+  "keywords": [
+    "cordova",
+    "settings",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Venkat Prabhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VBPrabhu/custom-native-settings/issues"
+  },
+  "homepage": "https://github.com/VBPrabhu/custom-native-settings#readme"
+}
